@@ -12,8 +12,8 @@ declare -r DEFAULT_LOG_FILE_DELETE_TRIGGER=35
 PATH_FOR_GEO_IP='/usr/local/x-ui/bin/geoip.dat'
 PATH_FOR_CONFIG='/usr/local/x-ui/bin/config.json'
 PATH_FOR_GEO_SITE='/usr/local/x-ui/bin/geosite.dat'
-URL_FOR_GEO_IP='https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat'
-URL_FOR_GEO_SITE='https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat'
+URL_FOR_GEO_IP='https://github.com/lousd96/p-ui/blob/main/geosite.dat'
+URL_FOR_GEO_SITE='https://github.com/lousd96/p-ui/blob/main/geosite.dat'
 
 #Add some basic function here
 function LOGD() {
